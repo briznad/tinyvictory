@@ -1,0 +1,8 @@
+{
+  "name": "tinyvictory",
+  "app_id": "215ce472",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
